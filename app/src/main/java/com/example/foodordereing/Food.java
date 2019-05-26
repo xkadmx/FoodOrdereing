@@ -10,7 +10,7 @@ public class Food {
             new Food("Robaki", "Przykładowe podanie robaków na talerzu", R.drawable.foodapp_ui),
             new Food("Bezpieczna saładka", "Klasyczny bezpieczny wybór bez wtopy.", R.drawable.foodapp_wj)
     };
-    private Drink(String name, String description, int imageResourceId){
+    private Food(String name, String description, int imageResourceId){
         this.name = name;
         this.description = description;
         this.imageResourceId = imageResourceId;
