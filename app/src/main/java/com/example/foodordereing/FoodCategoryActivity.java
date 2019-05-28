@@ -18,7 +18,7 @@ public class FoodCategoryActivity extends ListActivity {
                 Food.food);
         listFooods.setAdapter(listAdapter);
 
-        )
+
 
     }
 
