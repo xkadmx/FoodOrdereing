@@ -6,4 +6,5 @@
         <item>Napoje</item>
         <item>Kafeterie</item>
     </string-array>
+    <string name="title_activity_food_category">FoodCategoryActivity</string>
 </resources>
